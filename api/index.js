@@ -23,3 +23,6 @@ conn.sync({force:true}).then(() =>{
         console.log('Escuchando en puerto 3001')
     })
 })
+
+
+
